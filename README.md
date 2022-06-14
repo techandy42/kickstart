@@ -9,6 +9,20 @@ Project Summary:
 
 ---
 
+Testnet:
+
+> The project is deployed on the Rinkeby Testnet and utilizes MetaMask to function.
+
+In order to test on the website:
+
+- Install MetaMask.
+- Switch the network to the Rinkeby Testnet.
+- Get some Ether from the [Rinkeby Faucet](https://rinkebyfaucet.com/).
+- Connect to the website.
+- Start using the website!
+
+---
+
 Tech Stack:
 
 Front-end:
